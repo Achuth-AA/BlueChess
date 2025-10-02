@@ -1,16 +1,6 @@
-# React + Vite
+Blue Chess ♟️
+A modern, feature-rich online chess platform inspired by Chess.com, enhanced with advanced AI capabilities for analysis, training, and gameplay.
+Overview
+Blue Chess is a comprehensive chess platform that combines classic online chess functionality with cutting-edge AI features. Whether you're a beginner learning the game or a seasoned player looking to improve, Blue Chess provides the tools and features you need.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[Offical Documentation](https://docs.google.com/document/d/1muItTmqINpe8B4Mo9c_3w1cATzNL1alk-U12FQMTbpY/edit?usp=sharing)
