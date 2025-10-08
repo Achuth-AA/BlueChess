@@ -1,10 +1,12 @@
 import React from 'react';
+import Navbar from '../components/Navbar';
+import Hero from '../components/Hero';
 
 function LandingPage() {
   return (
-    <div>
-      <h1>Welcome to Blue Chess</h1>
-      <p>A modern, feature-rich online chess platform</p>
+    <div className="min-h-screen bg-slate-900">
+      <Navbar />
+      <Hero />
     </div>
   );
 }
